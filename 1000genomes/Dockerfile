@@ -1,4 +1,4 @@
-FROM ubuntu:utopic
+FROM ubuntu
 MAINTAINER Giovanni DallOlio <dalloliogm@gmail.com>
 
 RUN apt-get install -y wget git tabix
